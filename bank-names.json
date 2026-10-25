@@ -1,0 +1,606 @@
+{
+  "car_019-exhaust.tmx": {
+    "name": "toy_ae86_b",
+    "offset": 57516
+  },
+  "car_065-exhaust.tmx": {
+    "name": "tvr_tusc_a",
+    "offset": 57547
+  },
+  "car_020-exhaust.tmx": {
+    "name": "hon_prel_a",
+    "offset": 57578
+  },
+  "car_067-exhaust.tmx": {
+    "name": "tvr_chim_a",
+    "offset": 57609
+  },
+  "car_086-exhaust.tmx": {
+    "name": "ast_db9_b",
+    "offset": 57640
+  },
+  "car_099-exhaust.tmx": {
+    "name": "semi_truck_a",
+    "offset": 57690
+  },
+  "car_079-exhaust.tmx": {
+    "name": "dod_pola_a",
+    "offset": 57740
+  },
+  "car_123-exhaust.tmx": {
+    "name": "toy_supra_b",
+    "offset": 57771
+  },
+  "car_122-exhaust.tmx": {
+    "name": "nis_240sx_b",
+    "offset": 57803
+  },
+  "car_103-exhaust.tmx": {
+    "name": "maz_mia_b",
+    "offset": 57835
+  },
+  "car_100-exhaust.tmx": {
+    "name": "dod_chrgr_a",
+    "offset": 57865
+  },
+  "car_057-exhaust.tmx": {
+    "name": "mer_clk500_a",
+    "offset": 57897
+  },
+  "car_120-exhaust.tmx": {
+    "name": "aud_r8_a",
+    "offset": 57947
+  },
+  "car_073-exhaust.tmx": {
+    "name": "cor_z06_a",
+    "offset": 57993
+  },
+  "car_075-exhaust.tmx": {
+    "name": "ast_db9_a",
+    "offset": 58023
+  },
+  "car_048-exhaust.tmx": {
+    "name": "aud_s4_a",
+    "offset": 58093
+  },
+  "car_106-exhaust.tmx": {
+    "name": "kon_ccx_a",
+    "offset": 58122
+  },
+  "car_085-exhaust.tmx": {
+    "name": "chr_srt8_a",
+    "offset": 58152
+  },
+  "car_047-exhaust.tmx": {
+    "name": "por_carrgt_a",
+    "offset": 58183
+  },
+  "car_050-exhaust.tmx": {
+    "name": "bmw_m3_b",
+    "offset": 58216
+  },
+  "car_055-exhaust.tmx": {
+    "name": "bmw_480i_a",
+    "offset": 58245
+  },
+  "car_105-exhaust.tmx": {
+    "name": "maz_rx8_b",
+    "offset": 58313
+  },
+  "car_117-exhaust.tmx": {
+    "name": "chevelle_a",
+    "offset": 58380
+  },
+  "car_037-exhaust.tmx": {
+    "name": "chev_cav_b",
+    "offset": 58411
+  },
+  "car_114-exhaust.tmx": {
+    "name": "cad_ctsvr_a",
+    "offset": 58459
+  },
+  "car_011-exhaust.tmx": {
+    "name": "maz_rx8_a",
+    "offset": 58491
+  },
+  "car_043-exhaust.tmx": {
+    "name": "por_928v8_a",
+    "offset": 58521
+  },
+  "car_018-exhaust.tmx": {
+    "name": "nis_240sx_a",
+    "offset": 58613
+  },
+  "car_130-exhaust.tmx": {
+    "name": "por_cri_a",
+    "offset": 58645
+  },
+  "car_009-exhaust.tmx": {
+    "name": "nis_sky_a",
+    "offset": 58715
+  },
+  "car_127-exhaust.tmx": {
+    "name": "cad_ctsvr_b",
+    "offset": 58745
+  },
+  "car_124-exhaust.tmx": {
+    "name": "nis_sky_b",
+    "offset": 58777
+  },
+  "car_022-exhaust.tmx": {
+    "name": "hon_s2000_b",
+    "offset": 58807
+  },
+  "car_108-exhaust.tmx": {
+    "name": "acu_nsx_a",
+    "offset": 58856
+  },
+  "car_061-exhaust.tmx": {
+    "name": "lot_elise_a",
+    "offset": 58886
+  },
+  "car_024-exhaust.tmx": {
+    "name": "vw_gti_a",
+    "offset": 58918
+  },
+  "car_112-exhaust.tmx": {
+    "name": "acu_nsx_b",
+    "offset": 58947
+  },
+  "car_101-exhaust.tmx": {
+    "name": "pon_gto_a",
+    "offset": 59037
+  },
+  "car_091-exhaust.tmx": {
+    "name": "pag_zon_a",
+    "offset": 59087
+  },
+  "car_062-exhaust.tmx": {
+    "name": "lam_galla_a",
+    "offset": 59117
+  },
+  "car_038-exhaust.tmx": {
+    "name": "hum_h1_a",
+    "offset": 59149
+  },
+  "car_030-exhaust.tmx": {
+    "name": "vw_jettam4_a",
+    "offset": 59198
+  },
+  "car_002-exhaust.tmx": {
+    "name": "toy_ae86_a",
+    "offset": 59268
+  },
+  "car_036-exhaust.tmx": {
+    "name": "chev_cav_a",
+    "offset": 59299
+  },
+  "car_045-exhaust.tmx": {
+    "name": "por_dp6_a",
+    "offset": 59330
+  },
+  "car_121-exhaust.tmx": {
+    "name": "pon_gto_b",
+    "offset": 59360
+  },
+  "car_113-exhaust.tmx": {
+    "name": "cor_c6r_a",
+    "offset": 59407
+  },
+  "car_076-exhaust.tmx": {
+    "name": "dod_hemi_a",
+    "offset": 59437
+  },
+  "car_003-exhaust.tmx": {
+    "name": "hon_s2000_a",
+    "offset": 59468
+  },
+  "car_041-exhaust.tmx": {
+    "name": "por_rsr_a",
+    "offset": 59537
+  },
+  "car_071-exhaust.tmx": {
+    "name": "for_mustgt_b",
+    "offset": 59584
+  },
+  "car_082-exhaust.tmx": {
+    "name": "cor_c5_a",
+    "offset": 59617
+  },
+  "car_129-exhaust.tmx": {
+    "name": "mer_slr_b",
+    "offset": 59666
+  },
+  "car_058-exhaust.tmx": {
+    "name": "mer_cl55_a",
+    "offset": 59716
+  },
+  "car_109-exhaust.tmx": {
+    "name": "dod_vip_c",
+    "offset": 59747
+  },
+  "car_068-exhaust.tmx": {
+    "name": "dod_vip_a",
+    "offset": 59797
+  },
+  "car_069-exhaust.tmx": {
+    "name": "dod_vip_b",
+    "offset": 59827
+  },
+  "car_059-exhaust.tmx": {
+    "name": "mer_sl65_a",
+    "offset": 59857
+  },
+  "car_052-exhaust.tmx": {
+    "name": "bmw_m3_d",
+    "offset": 59888
+  },
+  "car_128-exhaust.tmx": {
+    "name": "mer_sl65_b",
+    "offset": 59917
+  },
+  "car_063-exhaust.tmx": {
+    "name": "lam_dia_a",
+    "offset": 59948
+  },
+  "car_028-exhaust.tmx": {
+    "name": "vw_jettam3_a",
+    "offset": 59978
+  },
+  "car_111-exhaust.tmx": {
+    "name": "nis_350z_d",
+    "offset": 60011
+  },
+  "car_078-exhaust.tmx": {
+    "name": "vw_r32_a",
+    "offset": 60062
+  },
+  "car_066-exhaust.tmx": {
+    "name": "tvr_cerb_a",
+    "offset": 60091
+  },
+  "car_021-exhaust.tmx": {
+    "name": "vw_sciro_a",
+    "offset": 60122
+  },
+  "car_023-exhaust.tmx": {
+    "name": "maz_mia_a",
+    "offset": 60153
+  },
+  "car_060-exhaust.tmx": {
+    "name": "mer_slr_a",
+    "offset": 60183
+  },
+  "car_039-exhaust.tmx": {
+    "name": "dod_ram_a",
+    "offset": 60213
+  },
+  "car_110-exhaust.tmx": {
+    "name": "toy_ae86_c",
+    "offset": 60243
+  },
+  "car_013-exhaust.tmx": {
+    "name": "for_mustv8_b",
+    "offset": 60291
+  },
+  "car_040-exhaust.tmx": {
+    "name": "acu_integ_a",
+    "offset": 60324
+  },
+  "car_054-exhaust.tmx": {
+    "name": "bmw_328i_a",
+    "offset": 60376
+  },
+  "car_064-exhaust.tmx": {
+    "name": "lam_murc_a",
+    "offset": 60407
+  },
+  "car_001-exhaust.tmx": {
+    "name": "fer_360_a",
+    "offset": 60438
+  },
+  "car_104-exhaust.tmx": {
+    "name": "toy_supra_a",
+    "offset": 60468
+  },
+  "car_029-exhaust.tmx": {
+    "name": "vw_cabrio_a",
+    "offset": 60500
+  },
+  "car_125-exhaust.tmx": {
+    "name": "hon_prel_b",
+    "offset": 60532
+  },
+  "car_072-exhaust.tmx": {
+    "name": "for_mustgt_c",
+    "offset": 60563
+  },
+  "car_010-exhaust.tmx": {
+    "name": "maz_rx7_a",
+    "offset": 60636
+  },
+  "car_077-exhaust.tmx": {
+    "name": "ply_cuda_a",
+    "offset": 60666
+  },
+  "car_102-exhaust.tmx": {
+    "name": "maz_rx7_c",
+    "offset": 60714
+  },
+  "car_005-exhaust.tmx": {
+    "name": "hon_s2000_d",
+    "offset": 60764
+  },
+  "car_007-exhaust.tmx": {
+    "name": "nis_300zx_a",
+    "offset": 60796
+  },
+  "car_070-exhaust.tmx": {
+    "name": "for_mustgt_a",
+    "offset": 60828
+  },
+  "car_107-exhaust.tmx": {
+    "name": "bmw_m5_b",
+    "offset": 60861
+  },
+  "car_118-exhaust.tmx": {
+    "name": "ren_clio_a",
+    "offset": 60890
+  },
+  "car_119-exhaust.tmx": {
+    "name": "hon_civic_a",
+    "offset": 60921
+  },
+  "car_116-exhaust.tmx": {
+    "name": "mit_evo9_a",
+    "offset": 60970
+  },
+  "car_115-exhaust.tmx": {
+    "name": "dod_vip_d",
+    "offset": 61038
+  },
+  "car_126-exhaust.tmx": {
+    "name": "dod_vip_e",
+    "offset": 61068
+  },
+  "car_046-exhaust.tmx": {
+    "name": "por_996_a",
+    "offset": 61098
+  },
+  "car_080-exhaust.tmx": {
+    "name": "dod_dust_a",
+    "offset": 61128
+  },
+  "car_044-exhaust.tmx": {
+    "name": "por_gtr_a",
+    "offset": 61179
+  },
+  "car_088-engine.tmx": {
+    "name": "for_gt_a_eng",
+    "offset": 61209
+  },
+  "car_008-engine.tmx": {
+    "name": "mit_eclip_a_eng",
+    "offset": 61241
+  },
+  "car_116-engine.tmx": {
+    "name": "mit_evo9_a_eng",
+    "offset": 61276
+  },
+  "car_130-engine.tmx": {
+    "name": "por_cri_a_eng",
+    "offset": 61310
+  },
+  "car_003-engine.tmx": {
+    "name": "hon_s2000_a_eng",
+    "offset": 61343
+  },
+  "car_117-engine.tmx": {
+    "name": "chevelle_a_eng",
+    "offset": 61378
+  },
+  "car_033-engine.tmx": {
+    "name": "maz_prot_a_eng",
+    "offset": 61412
+  },
+  "car_025-engine.tmx": {
+    "name": "nis_350z_a_eng",
+    "offset": 61446
+  },
+  "car_120-engine.tmx": {
+    "name": "aud_r8_a_eng",
+    "offset": 61480
+  },
+  "car_106-engine.tmx": {
+    "name": "kon_ccx_a_eng",
+    "offset": 61512
+  },
+  "car_000-engine.tmx": {
+    "name": "hon_s2k_c_eng",
+    "offset": 61545
+  },
+  "car_011-engine.tmx": {
+    "name": "maz_rx8_a_eng",
+    "offset": 61578
+  },
+  "car_118-engine.tmx": {
+    "name": "ren_clio_a_eng",
+    "offset": 61611
+  },
+  "car_109-engine.tmx": {
+    "name": "dod_vip_c_eng",
+    "offset": 61645
+  },
+  "car_077-engine.tmx": {
+    "name": "ply_cuda_a_eng",
+    "offset": 61678
+  },
+  "car_073-engine.tmx": {
+    "name": "cor_z06_eng",
+    "offset": 61728
+  },
+  "car_078-engine.tmx": {
+    "name": "vw_r32_a_eng",
+    "offset": 61759
+  },
+  "car_105-engine.tmx": {
+    "name": "maz_rx8_b_eng",
+    "offset": 61791
+  },
+  "car_068-engine.tmx": {
+    "name": "dod_vip_a_eng",
+    "offset": 61824
+  },
+  "car_051-engine.tmx": {
+    "name": "bmw_m3_c_eng",
+    "offset": 61857
+  },
+  "car_121-engine.tmx": {
+    "name": "pon_gto_b_eng",
+    "offset": 61889
+  },
+  "car_076-engine.tmx": {
+    "name": "dod_hemi_a_eng",
+    "offset": 61922
+  },
+  "car_082-engine.tmx": {
+    "name": "cor_c5a_eng",
+    "offset": 61956
+  },
+  "car_111-engine.tmx": {
+    "name": "nis_350z_d_eng",
+    "offset": 61987
+  },
+  "car_087-engine.tmx": {
+    "name": "jag_xk_a_eng",
+    "offset": 62021
+  },
+  "car_103-engine.tmx": {
+    "name": "maz_mia_b_eng",
+    "offset": 62053
+  },
+  "car_114-engine.tmx": {
+    "name": "cad_ctsvr_a_eng",
+    "offset": 62086
+  },
+  "car_102-engine.tmx": {
+    "name": "maz_rx7_c_eng",
+    "offset": 62121
+  },
+  "car_112-engine.tmx": {
+    "name": "acu_nsx_b_eng",
+    "offset": 62154
+  },
+  "car_079-engine.tmx": {
+    "name": "dod_pola_a_eng",
+    "offset": 62187
+  },
+  "car_091-engine.tmx": {
+    "name": "pag_zon_a_eng",
+    "offset": 62221
+  },
+  "car_083-engine.tmx": {
+    "name": "mit_evo8_a_eng",
+    "offset": 62254
+  },
+  "car_041-engine.tmx": {
+    "name": "por_rsr_a_eng",
+    "offset": 62288
+  },
+  "car_119-engine.tmx": {
+    "name": "hon_civic_a_eng",
+    "offset": 62321
+  },
+  "car_019-engine.tmx": {
+    "name": "toy_ae86_b_eng",
+    "offset": 62356
+  },
+  "car_110-engine.tmx": {
+    "name": "toy_ae86_c_eng",
+    "offset": 62390
+  },
+  "car_107-engine.tmx": {
+    "name": "bmw_m5_b_eng",
+    "offset": 62424
+  },
+  "car_108-engine.tmx": {
+    "name": "acu_nsx_a_eng",
+    "offset": 62456
+  },
+  "car_085-engine.tmx": {
+    "name": "chr_srt8_a_eng",
+    "offset": 62489
+  },
+  "car_062-engine.tmx": {
+    "name": "lam_galla_a_eng",
+    "offset": 62523
+  },
+  "car_123-engine.tmx": {
+    "name": "toy_supra_b_eng",
+    "offset": 62558
+  },
+  "car_046-engine.tmx": {
+    "name": "por_996_a_eng",
+    "offset": 62593
+  },
+  "car_047-engine.tmx": {
+    "name": "por_carrgt_a_eng",
+    "offset": 62626
+  },
+  "car_128-engine.tmx": {
+    "name": "mer_sl65_b_eng",
+    "offset": 62662
+  },
+  "car_084-engine.tmx": {
+    "name": "toy_mr2_a_eng",
+    "offset": 62696
+  },
+  "car_090-engine.tmx": {
+    "name": "maz_rx7_b_eng",
+    "offset": 62729
+  },
+  "car_113-engine.tmx": {
+    "name": "cor_c6r_a_eng",
+    "offset": 62762
+  },
+  "car_099-engine.tmx": {
+    "name": "semi_truck_a_eng",
+    "offset": 62814
+  },
+  "car_080-engine.tmx": {
+    "name": "dod_dust_a_eng",
+    "offset": 62850
+  },
+  "car_115-engine.tmx": {
+    "name": "dod_vip_d_eng",
+    "offset": 62884
+  },
+  "car_101-engine.tmx": {
+    "name": "pon_gto_a_eng",
+    "offset": 62917
+  },
+  "car_100-engine.tmx": {
+    "name": "dod_chrgr_a_eng",
+    "offset": 62950
+  },
+  "car_081-engine.tmx": {
+    "name": "sub_wrx_d_eng",
+    "offset": 62985
+  },
+  "car_086-engine.tmx": {
+    "name": "ast_db9_b_eng",
+    "offset": 63018
+  },
+  "car_036-engine.tmx": {
+    "name": "chev_cav_a_eng",
+    "offset": 63051
+  },
+  "car_129-engine.tmx": {
+    "name": "mer_slr_b_eng",
+    "offset": 63085
+  },
+  "car_104-engine.tmx": {
+    "name": "toy_supra_a_eng",
+    "offset": 63118
+  }
+}
